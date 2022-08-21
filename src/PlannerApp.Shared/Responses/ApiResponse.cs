@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace PlannerApp.Shared.Responses
+﻿namespace PlannerApp.Shared.Responses
 {
     public class ApiResponse
     {
